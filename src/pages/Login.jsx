@@ -80,6 +80,7 @@ export default function Login({ onGoogleLogin }) {
           <p>
             Sign in to access your academic information, enrollment details,
             grades, and student services.
+            <h1>qwertyu</h1>
           </p>
           <div className="intro-points">
             <div><i className="bi bi-check-circle-fill" /> Secure student access</div>
